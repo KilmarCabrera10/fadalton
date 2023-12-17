@@ -13149,7 +13149,7 @@ html body .rounded-circle {
 
 /* Footer - Skin */
 #footer .footer-ribbon {
-	background: var(--primary);
+	background: #235D87;
 }
 
 #footer .footer-ribbon:before {
